@@ -128,7 +128,7 @@
 export default {
   data () {
     return {
-      catelist: {},
+      catelist: [],
       cateProps: {
         expandTrigger: 'hover',
         value: 'cat_id',
